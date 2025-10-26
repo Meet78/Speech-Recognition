@@ -11,7 +11,8 @@ This project implements speech recognition using two different approaches: Wav2V
 │   └── wav2vec2-finetuned/ # Fine-tuned Wav2Vec2.0 model
 ├── wav2vec.ipynb         # Jupyter notebook for Wav2Vec2.0 implementation
 ├── whisper.ipynb         # Jupyter notebook for Whisper implementation
-└── ResearchPaperGroup4.pdf # Research paper documentation
+├── ResearchPaperGroup4.pdf # Research paper documentation
+└── ppt presentation/     # Presentation files
 ```
 
 ## Features
@@ -34,7 +35,7 @@ This project implements speech recognition using two different approaches: Wav2V
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/Meet78/Speech-Recognition.git
    ```
 
 2. Install the required dependencies:
@@ -62,4 +63,4 @@ This project implements speech recognition using two different approaches: Wav2V
 
 ## Results
 
-The project includes a comparative analysis of both models, with results and findings documented in `ResearchPaperGroup4.pdf`.
+The project includes a comparative analysis of both models, with results and findings documented in the research paper.
