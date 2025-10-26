@@ -10,9 +10,7 @@ This project implements speech recognition using two different approaches: Wav2V
 │   ├── audio/            # Directory containing audio samples
 │   └── wav2vec2-finetuned/ # Fine-tuned Wav2Vec2.0 model
 ├── wav2vec.ipynb         # Jupyter notebook for Wav2Vec2.0 implementation
-├── whisper.ipynb         # Jupyter notebook for Whisper implementation
-├── ResearchPaperGroup4.pdf # Research paper documentation
-└── ppt presentation/     # Presentation files
+└── whisper.ipynb         # Jupyter notebook for Whisper implementation
 ```
 
 ## Features
@@ -63,4 +61,4 @@ This project implements speech recognition using two different approaches: Wav2V
 
 ## Results
 
-The project includes a comparative analysis of both models, with results and findings documented in the research paper.
+The project includes a comparative analysis of both Wav2Vec2.0 and Whisper models for speech recognition tasks.
